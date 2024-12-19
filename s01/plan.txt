@@ -1,0 +1,11 @@
+Bootstrap:
+
+* framework css - facebook - open source (gratuit)
+
+* fichier Bootstrap.css
+
+min.css vs .css
+
+
+
+* grid system
