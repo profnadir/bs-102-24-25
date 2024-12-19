@@ -1,0 +1,24 @@
+grid system : 
+
+    col-xx-yy (total : 12)
+
+    xx : sm - md - lg - xl - xxl
+    yy : 1 - 12
+
+    offset-3
+
+p(t/b/s/e/x/y)-(1..5) : padding
+m(t/b/s/e/x/y)-(1..5) : margin
+
+h1 - .. - h6
+
+les images : rounded rounded-circle img-fluid(responsive) float-start float-end
+
+tables : table table-bordered table-borderless table-striped table-hover table-responsive
+            table-dark table-color(danger primary warning success info secondary ...)
+
+border border-color
+
+text-center text-color
+
+les formulaires ?
