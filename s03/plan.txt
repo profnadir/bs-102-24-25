@@ -1,0 +1,25 @@
+Rappel : 
+
+les classes bootstarp pour manipuler les formulaires :
+
+
+form-label
+form-control [form-control-sm form-control-lg]
+
+div.form-check [form-switch]
+
+form-check-input
+form-check-label
+
+form-select
+
+btn btn-color 
+btn btn-outline-color
+
+1. Barres de navigation
+2. Menus déroulants
+3. Pagination, badges et alertes
+4. Barres de progression
+5. Cartes (cards)
+
+
